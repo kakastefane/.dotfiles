@@ -1,0 +1,7 @@
+[user]
+	name = Kariston Stefane
+	email = eukaristondev@gmail.com
+[pull]
+	rebase = true
+[init]
+	defaultBranch = main
